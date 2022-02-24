@@ -1,4 +1,4 @@
-# equalizaçao da imagem de formaa adaptatica:
+# equalizaçao da imagem de forma adaptatica:
 Consiste em melhorar o contraste da imagem (OpenCV), de forma que os pixels fiquem distribuídos
 em todas as regiões.
 Com isso, as áreas que têm um pequeno contraste local obtêm um contraste mais elevado.
